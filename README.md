@@ -20,8 +20,8 @@ I own Geomersive and work on its spatial-data application: dataset and product c
 
 ## Tools I work with
 
-**Backend & data:** Python, FastAPI, PostgreSQL/PostGIS, Prefect, GDAL, GeoPandas  
-**Infrastructure:** AWS, Docker, Kubernetes, GitHub Actions  
+**Backend & data:** Python, FastAPI, PostgreSQL/PostGIS, Prefect, GDAL, PDAL  
+**Infrastructure:** AWS, Docker, Kubernetes
 **Mapping & interfaces:** TypeScript/JavaScript, Mapbox GL, Leaflet, Cesium
 
 My [MUSA coursework](https://github.com/Freddie999/MUSA-5080-portfolio) and JavaScript exercise forks are learning work, separate from the engineering examples above.
