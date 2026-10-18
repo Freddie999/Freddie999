@@ -6,6 +6,17 @@ My background includes mapping and geospatial engineering at **Zipline**, suppor
 
 Much of my professional work is proprietary. These public repositories offer a separate, inspectable view of my engineering approach, using public or synthetic data.
 
+## Selected analytical projects
+
+| Project | Focus |
+|---|---|
+| [When blood takes a shortcut](https://freddie999.github.io/story-map-project/) · [Code](https://github.com/Freddie999/story-map-project) | JavaScript/Leaflet story map exploring modeled medical-delivery accessibility in Rwanda. |
+| [Land-cover classification](https://github.com/Freddie999/ai-urban-sustainability/blob/main/Homework4.ipynb) | Five CNN configurations on EuroSAT RGB; 97.73% held-out test accuracy, macro F1 0.9767; random-image-split limitations documented. |
+| [Philadelphia poverty change](https://freddie999.github.io/MUSA-5080-portfolio/assignments/assignment3.html) | ACS sampling uncertainty, tract comparisons, and evidence-based policy interpretation in R. |
+| [Philadelphia housing values](https://freddie999.github.io/MUSA-5080-portfolio/reports/philadelphia-housing-values.html) | Team regression study with Vincent Bio Bediako and Emmanuel Sampson; diagnostics, maps, and cross-validation. |
+
+These are academic projects completed during my Master of Urban Spatial Analytics. Sources, methods, collaborators, and limitations are documented in the reports.
+
 ## Selected engineering work
 
 | Project | What to look at |
@@ -24,6 +35,6 @@ I own Geomersive and work on its spatial-data application: dataset and product c
 **Infrastructure:** AWS, Docker, Kubernetes
 **Mapping & interfaces:** TypeScript/JavaScript, Mapbox GL, Leaflet, Cesium
 
-My [MUSA coursework](https://github.com/Freddie999/MUSA-5080-portfolio) and JavaScript exercise forks are learning work, separate from the engineering examples above.
+Explore my [academic portfolio](https://freddie999.github.io/MUSA-5080-portfolio/) for the full analyses and coursework.
 
 [Portfolio](https://freddie999.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/frederick-abalo-782054ba/) · [Geomersive](https://geomersive.org)
